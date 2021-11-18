@@ -15,7 +15,9 @@ button {
   line-height: 1.19;
   color: #212121;
 }
-
+.collortxt {
+  color: #2196f3;
+}
 /* header */
 
 header a:hover {
