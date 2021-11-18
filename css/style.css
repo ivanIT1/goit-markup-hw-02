@@ -90,21 +90,28 @@ header a:hover {
   font-weight: normal;
   font-size: 14px;
   line-height: 1.7;
-  color: #757575;
+  color: rgba(255, 255, 255, 0.6);
+}
+.map a {
+  color: #ffffff;
 }
 .footer a:hover {
   color: #2196f3;
 }
-.map {
+.logo_footer {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
   color: #ffffff;
 }
-
 /* Портфолио */
 .project h3 {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 2;
+  line-height: 1.1;
 }
 .project p {
   font-size: 16px;
