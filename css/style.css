@@ -13,7 +13,7 @@ body {
 /* logo */
 .logo {
   font-family: Raleway;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -67,6 +67,7 @@ body {
   line-height: 1.16;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  font-weight: 400;
 }
 .main-top .button {
   background-color: var(--hover-collor-text);
@@ -75,7 +76,7 @@ body {
   display: flex;
   align-items: center;
   text-align: center;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.85;
   border-radius: 4px;
@@ -87,7 +88,7 @@ body {
 }
 .block_h {
   color: var(--basic-coller);
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -95,7 +96,7 @@ body {
 }
 .block_p {
   color: var(--description-collor);
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -106,7 +107,7 @@ body {
 }
 
 .work .title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 42px;
   text-align: center;
@@ -115,7 +116,7 @@ body {
 }
 /* team */
 .team .title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
@@ -129,6 +130,7 @@ body {
   line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
 .profession {
   font-size: 16px;
@@ -136,6 +138,7 @@ body {
   text-align: center;
   color: var(--description-collor);
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
 .team-info {
   list-style-type: none;
@@ -149,7 +152,7 @@ body {
   color: var(--title-color);
   text-decoration: none;
   font-family: Raleway;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -163,15 +166,14 @@ body {
   line-height: 1.7;
   color: var(--description-collor);
   letter-spacing: 0.03em;
-
-  font-size: 14px;
-  line-height: 1.7;
+  font-weight: 400;
 }
 .footer-contact .map {
   color: var(--title-color);
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
 .address-list {
   list-style-type: none;
@@ -209,7 +211,7 @@ body {
   display: none;
 }
 .name-project {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   color: var(--basic-coller);
@@ -220,4 +222,5 @@ body {
   line-height: 1.85;
   color: var(--description-collor);
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
